@@ -1,0 +1,33 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://source.unsplash.com/random/1920x1080');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .features-icons-icon {
+    font-size: 4.5rem;
+  }
+  
+  .showcase {
+    padding: 3rem 0;
+  }
+  
+  .showcase .showcase-text {
+    padding: 2rem;
+  }
+  
+  .showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+  }
+  
+  .call-to-action {
+    padding: 3rem 0;
+    background-color: #343a40;
+  }
